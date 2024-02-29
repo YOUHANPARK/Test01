@@ -5,4 +5,8 @@ public class Test00 {
 	void aa() {
 		System.out.println("두번째 커밋 수정");
 	}
+	
+	void cc() {
+		System.out.println("main 에서 수정");
+	}
 }
